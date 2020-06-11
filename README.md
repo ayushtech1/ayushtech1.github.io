@@ -1,6 +1,6 @@
  Ayush.tech 
 
-<p>Hi, friends welcome to my website Ayush.tech<p><br>
+Hi, friends welcome to my website Ayush.tech
   
 About me
   
